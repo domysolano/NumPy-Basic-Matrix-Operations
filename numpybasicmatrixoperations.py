@@ -12,7 +12,7 @@ Curso: *Programación para Analítica Descriptiva y Predictiva*
 
 * Semestre: Enero-Junio 2026
 * Profesor: Dr. Vicente García Jiménez
-* Alumno: Ricardo Solano Monje.
+* Alumno: Ricardo Solano Monje
 * Matrícula: 266221
 * Unidad 1
 * Práctica 4: Manipulación de matrices
